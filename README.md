@@ -56,19 +56,6 @@ Most of my projects come from coursework, personal experiments, or things I want
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-## Selected Projects
-### ARM CPU Simulator
-Instruction decoding and execution for ARMv7 / Thumb, built to understand how things actually work.
-
-### 3D CAD & FDM Printing
-Parametric designs and functional parts optimized for FDM printing, tolerances, and real-world use.
-
-### Web & Tooling
-Small web apps, internal tools, and experiments focused on usability rather than frameworks.
-
-### Media & Metadata
-Experiments with media pipelines, file metadata, and format-level tweaks.
-
 ## Contact
 - Website: https://sebaparackal.com
 - Email: sebasajeed@gmail.com
